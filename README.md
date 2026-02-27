@@ -80,4 +80,4 @@ Assets/
 
 ## 授權
 
-本專案為教學用途。第三方資源（SteamVR、Asset Store 素材包）各自遵循其原始授權條款。
+本專案採用 [Apache License 2.0](LICENSE) 授權。第三方資源（SteamVR、Asset Store 素材包）各自遵循其原始授權條款。
